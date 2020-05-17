@@ -9,6 +9,7 @@ Polygon allows for arbitrary message encoding and signing, using new primitives 
 ## Documentation
 
 [investor intro deck](https://docs.google.com/presentation/d/15sgQPFWZCz6p9X04N3gRBgz71tEi9vG4V-5MrbrT4ag/edit?usp=sharing)
+
 [whitepaper draft](https://github.com/polygonledger/docs/blob/master/whitepaper.md)
 
 ### Community
